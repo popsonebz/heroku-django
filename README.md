@@ -1,0 +1,2 @@
+# heroku-django
+installation process

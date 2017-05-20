@@ -6,9 +6,11 @@
    $ sudo apt-get install heroku
 ```
 ## check the version
-```$ heroku --version
+```
+   $ heroku --version
 ```
 ## Create an account on heroku
 ## Login to heroku via terminal
-```$ heroku login
+``` 
+  $ heroku login
 ```
